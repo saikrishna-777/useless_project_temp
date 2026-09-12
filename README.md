@@ -2,34 +2,32 @@
 
 
 
-# [Project Name] 🎯
+# [memeboard] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [murukhan]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [saikrishna r] - [sngcet payyanur]
+- Member 2: [devadathan p] - [sngcet payyanur]
 
 ### Project Description
-[2-3 lines about what your project does]
+[every key with an uniqe meme]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[normal typing aint fun]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[makes it fun]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [html,javascript,css]
+- [html5,css3,javascript,google fonts,html5 audio APT,canvas API]
+- [visual studio code,antigravity,git,github,live server,google fonts,chrome/chromium]
 
 For Hardware:
 - [List main components]
@@ -82,8 +80,8 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+[[https://drive.google.com/file/d/1YUBa6UzUu4Tyu8cjcNnT3AkL_N1ajbtR/view?usp=sharing]
+]()*Explain what the video demonstrates*
 
 # Additional Demos
 [Add any extra demo materials/links]
